@@ -1,0 +1,65 @@
+{
+  "image": "data_scorebugs\\us_open_2.png",
+  "players": {
+    "top": "JOKONVIGEIK",
+    "bottom": "Q"
+  },
+  "setScores": [
+    [
+      6,
+      2
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      null
+    ]
+  ],
+  "rightColumn": [
+    0,
+    0
+  ],
+  "serverRow": null,
+  "serveMarkers": [],
+  "state": {
+    "currentSetIndex": 1,
+    "setsWonTop": 1,
+    "setsWonBottom": 0,
+    "perSetScores": [
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        null
+      ]
+    ],
+    "isTiebreak": true,
+    "gameScore": {
+      "type": "tiebreak",
+      "score": [
+        0,
+        0
+      ]
+    },
+    "server": "unknown",
+    "ok": true,
+    "reason": ""
+  }
+}

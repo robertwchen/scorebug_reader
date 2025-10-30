@@ -1,0 +1,57 @@
+{
+  "image": "data_scorebugs\\scorebug_test.png",
+  "players": {
+    "top": "WILLIAMS",
+    "bottom": "SHARAPOVA"
+  },
+  "setScores": [
+    [
+      4,
+      6
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      6
+    ]
+  ],
+  "rightColumn": [
+    5,
+    1
+  ],
+  "serverRow": null,
+  "serveMarkers": [],
+  "state": {
+    "currentSetIndex": 2,
+    "setsWonTop": 1,
+    "setsWonBottom": 1,
+    "perSetScores": [
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "isTiebreak": true,
+    "gameScore": {
+      "type": "tiebreak",
+      "score": [
+        5,
+        1
+      ]
+    },
+    "server": "unknown",
+    "ok": true,
+    "reason": ""
+  }
+}

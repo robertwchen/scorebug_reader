@@ -1,0 +1,22 @@
+[
+  {
+    "image": "data_scorebugs\\random_scorebug_1.png",
+    "error": "'>' not supported between instances of 'NoneType' and 'int'"
+  },
+  {
+    "image": "data_scorebugs\\scorebug_test.png",
+    "error": "OpenCV(4.12.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\matrix_operations.cpp:111: error: (-215:Assertion failed) src[i].dims <= 2 && src[i].cols == src[0].cols && src[i].type() == src[0].type() in function 'cv::vconcat'\n"
+  },
+  {
+    "image": "data_scorebugs\\us_open_1.png",
+    "error": "'>' not supported between instances of 'NoneType' and 'int'"
+  },
+  {
+    "image": "data_scorebugs\\us_open_2.png",
+    "error": "OpenCV(4.12.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\matrix_operations.cpp:111: error: (-215:Assertion failed) src[i].dims <= 2 && src[i].cols == src[0].cols && src[i].type() == src[0].type() in function 'cv::vconcat'\n"
+  },
+  {
+    "image": "data_scorebugs\\us_open_3.png",
+    "error": "'>' not supported between instances of 'NoneType' and 'int'"
+  }
+]
